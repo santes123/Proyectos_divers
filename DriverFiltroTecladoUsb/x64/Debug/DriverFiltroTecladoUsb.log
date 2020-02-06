@@ -1,0 +1,22 @@
+﻿  Building 'DriverFiltroTecladoUsb' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\DriverFiltroTecladoUsb.inf
+  Stamping [Version] section with DriverVer=02/06/2020,9.42.12.261
+  DriverFiltroTecladoUsb.c
+  DriverFiltroTecladoUsb.vcxproj -> C:\Users\Anto\source\repos\DriverFiltroTecladoUsb\x64\Debug\DriverFiltroTecladoUsb.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Anto\source\repos\DriverFiltroTecladoUsb\x64\Debug\DriverFiltroTecladoUsb.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Anto\source\repos\DriverFiltroTecladoUsb\x64\Debug\DriverFiltroTecladoUsb\driverfiltrotecladousb.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Anto\source\repos\DriverFiltroTecladoUsb\x64\Debug\DriverFiltroTecladoUsb\driverfiltrotecladousb.cat
+  

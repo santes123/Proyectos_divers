@@ -1,0 +1,12 @@
+﻿  Cliente5.c
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(28,19): warning C4133: 'función': tipos incompatibles, de 'int *' a 'const char *const '
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(34,78): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(34,78): warning C4024: 'DeviceIoControl': tipos distintos para el parámetro formal y el parámetro real 6
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(39,64): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(39,64): warning C4024: 'DeviceIoControl': tipos distintos para el parámetro formal y el parámetro real 4
+  Generando código
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Cliente5.vcxproj -> C:\Users\Anto\source\repos\Cliente5\x64\Release\Cliente5.exe

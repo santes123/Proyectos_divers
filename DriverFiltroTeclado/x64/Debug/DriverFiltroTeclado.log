@@ -1,0 +1,26 @@
+﻿  Building 'DriverFiltroTeclado' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\DriverFiltroTeclado.inf
+  Stamping [Version] section with DriverVer=02/05/2020,10.31.1.153
+  DriverFiltroTeclado.c
+C:\Users\Anto\source\repos\DriverFiltroTeclado\DriverFiltroTeclado.c(29,26): warning C4047: '=': 'NTSTATUS' es distinto en los niveles de direccionamiento indirecto de 'NTSTATUS (__cdecl *)(PDRIVER_OBJECT)'
+C:\Users\Anto\source\repos\DriverFiltroTeclado\DriverFiltroTeclado.c(64,107): warning C4047: 'función': 'PDEVICE_OBJECT *' es distinto en los niveles de direccionamiento indirecto de 'PDEVICE_EXTENSION'
+C:\Users\Anto\source\repos\DriverFiltroTeclado\DriverFiltroTeclado.c(64,107): warning C4024: 'IoAttachDevice': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\Anto\source\repos\DriverFiltroTeclado\DriverFiltroTeclado.c(74): warning C4716: 'miFuncionEnlace': debe devolver un valor
+  DriverFiltroTeclado.vcxproj -> C:\Users\Anto\source\repos\DriverFiltroTeclado\x64\Debug\DriverFiltroTeclado.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Anto\source\repos\DriverFiltroTeclado\x64\Debug\DriverFiltroTeclado.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Anto\source\repos\DriverFiltroTeclado\x64\Debug\DriverFiltroTeclado\driverfiltroteclado.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Anto\source\repos\DriverFiltroTeclado\x64\Debug\DriverFiltroTeclado\driverfiltroteclado.cat
+  

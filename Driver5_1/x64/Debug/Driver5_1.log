@@ -1,0 +1,23 @@
+﻿  Building 'Driver5_1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\Driver5_1.inf
+  Stamping [Version] section with DriverVer=02/04/2020,11.22.37.512
+  Driver5_1.c
+C:\Users\Anto\source\repos\Driver5_1\Driver5_1.c(35,36): warning C4113: 'void (__cdecl *)()' es distinto en las listas de parámetros de 'PDRIVER_UNLOAD'
+  Driver5_1.vcxproj -> C:\Users\Anto\source\repos\Driver5_1\x64\Debug\Driver5_1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Anto\source\repos\Driver5_1\x64\Debug\Driver5_1.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Anto\source\repos\Driver5_1\x64\Debug\Driver5_1\driver5_1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Anto\source\repos\Driver5_1\x64\Debug\Driver5_1\driver5_1.cat
+  

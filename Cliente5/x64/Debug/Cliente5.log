@@ -1,0 +1,7 @@
+﻿  Cliente5.c
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(28,19): warning C4133: 'función': tipos incompatibles, de 'int *' a 'const char *const '
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(34,78): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(34,78): warning C4024: 'DeviceIoControl': tipos distintos para el parámetro formal y el parámetro real 6
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(39,64): warning C4047: 'función': 'DWORD' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\Anto\source\repos\Cliente5\Cliente5.c(39,64): warning C4024: 'DeviceIoControl': tipos distintos para el parámetro formal y el parámetro real 4
+  Cliente5.vcxproj -> C:\Users\Anto\source\repos\Cliente5\x64\Debug\Cliente5.exe
